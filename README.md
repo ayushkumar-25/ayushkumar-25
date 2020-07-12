@@ -1,6 +1,14 @@
-### नमस्ते 👋
-
+### नमस्ते 🙏
 ![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
+
+### Connect Me
+![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)
+![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)
+
+### Profile
+![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)
+
+
 
 
 
