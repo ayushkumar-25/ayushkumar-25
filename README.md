@@ -1,11 +1,11 @@
-### नमस्ते 🙏
+## नमस्ते 🙏
 [![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ayushkumar25/)
 [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
 [![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
 
 ![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
 
-### About Me:
+## About Me:
 Always curious to learn cutting edge technologies. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br>
 Here is my [Resume](https://drive.google.com/file/d/1rze3ob-AbIvtzk34nXXwQv3cYj9N76mS/view?usp=sharing)
 
