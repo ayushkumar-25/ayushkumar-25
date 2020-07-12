@@ -10,6 +10,10 @@ Always curious to learn cutting edge technology. A bit enthusiast towards web de
 Here is my [Resume](https://drive.google.com/file/d/1rze3ob-AbIvtzk34nXXwQv3cYj9N76mS/view?usp=sharing). <br> <br>
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+---
+
+⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25)
+
 
 
 <!-- TO make screenshot of your code, copy below link:  
